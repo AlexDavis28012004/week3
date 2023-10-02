@@ -1,0 +1,43 @@
+@media (max-width: 768px) {
+    body {
+      flex: 1;
+      font-size: 14px;
+      background-color: #f9f9f9; /* Changed background color */
+    }
+  }
+  
+  body {
+    background-color: #c0ffee; /* Changed background color */
+  }
+  
+  h1 {
+    text-align: center;
+    color: #8a2be2; /* Changed text color */
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #ffdab9; /* Changed background color */
+  }
+  
+  form {
+    max-width: 350px;
+    margin: 0 auto;
+    background-color: #f0f8ff; /* Changed background color */
+  }
+  
+  th,
+  td {
+    padding: 10px; /* Slightly increased padding */
+    border: 2px solid #4682b4; /* Changed border color */
+  }
+  
+  input[type="text"],
+  textarea {
+    width: 100%;
+    margin-bottom: 12px; /* Slightly increased margin */
+    padding: 6px; /* Slightly increased padding */
+    background-color: #fff8dc; /* Changed background color */
+  }
+  
